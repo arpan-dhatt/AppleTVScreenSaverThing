@@ -1,0 +1,17 @@
+
+.floating-image {
+    position: relative;
+    top: -200px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 50px rgb(50, 50, 50);
+    height: 200px;
+}
+
+.floating-image-container {
+    overflow: hidden;
+    height: 100%;
+}
+
+* {
+    background: white;
+}
